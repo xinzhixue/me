@@ -2461,7 +2461,7 @@ html.no-csstransitions .hero-content {
 .s-about__section--profile::before {
   content: "";
   display: block;
-  background-color: #65b0e6;
+  background-color: #13294B;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -2828,7 +2828,7 @@ html.no-csstransitions .hero-content {
 .s-portfolio::before {
   content: "";
   display: block;
-  background-color: #65b0e6;
+  background-color: #13294B;
   position: absolute;
   top: 0;
   right: 0;
